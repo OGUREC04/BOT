@@ -1,5 +1,5 @@
 APScheduler==3.6.3
-backports.zoneinfo==0.2.1
+backports.zoneinfo;python_version<"3.9"
 cachetools==4.2.2
 certifi==2022.9.24
 importlib-metadata==5.0.0
