@@ -91,7 +91,7 @@ Sanic-Cors==0.9.9.post4
 Sanic-GraphQL==1.1.0
 sanic-jwt==1.4.0
 Sanic-Plugins-Framework==0.9.5
-scipy==1.7.1
+scipy==1.7.2
 Shapely==1.8.4
 singledispatch==3.7.0
 six==1.16.0
